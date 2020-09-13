@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ifs-passcode-solver/static/css/main.424fd20d.chunk.css",
-    "main.js": "/ifs-passcode-solver/static/js/main.097050dd.chunk.js",
-    "main.js.map": "/ifs-passcode-solver/static/js/main.097050dd.chunk.js.map",
+    "main.js": "/ifs-passcode-solver/static/js/main.cf4ccaff.chunk.js",
+    "main.js.map": "/ifs-passcode-solver/static/js/main.cf4ccaff.chunk.js.map",
     "runtime-main.js": "/ifs-passcode-solver/static/js/runtime-main.87a35038.js",
     "runtime-main.js.map": "/ifs-passcode-solver/static/js/runtime-main.87a35038.js.map",
     "static/js/2.ee70706b.chunk.js": "/ifs-passcode-solver/static/js/2.ee70706b.chunk.js",
     "static/js/2.ee70706b.chunk.js.map": "/ifs-passcode-solver/static/js/2.ee70706b.chunk.js.map",
     "index.html": "/ifs-passcode-solver/index.html",
-    "precache-manifest.87291b8c596adae30cb30dfc606ff5c0.js": "/ifs-passcode-solver/precache-manifest.87291b8c596adae30cb30dfc606ff5c0.js",
+    "precache-manifest.2c68ba0f8f60456ba19fba2febeb2502.js": "/ifs-passcode-solver/precache-manifest.2c68ba0f8f60456ba19fba2febeb2502.js",
     "service-worker.js": "/ifs-passcode-solver/service-worker.js",
     "static/css/main.424fd20d.chunk.css.map": "/ifs-passcode-solver/static/css/main.424fd20d.chunk.css.map",
     "static/js/2.ee70706b.chunk.js.LICENSE.txt": "/ifs-passcode-solver/static/js/2.ee70706b.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.87a35038.js",
     "static/js/2.ee70706b.chunk.js",
     "static/css/main.424fd20d.chunk.css",
-    "static/js/main.097050dd.chunk.js"
+    "static/js/main.cf4ccaff.chunk.js"
   ]
 }

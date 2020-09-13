@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ifs-passcode-solver/precache-manifest.87291b8c596adae30cb30dfc606ff5c0.js"
+  "/ifs-passcode-solver/precache-manifest.2c68ba0f8f60456ba19fba2febeb2502.js"
 );
 
 self.addEventListener('message', (event) => {
