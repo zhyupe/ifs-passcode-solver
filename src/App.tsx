@@ -179,8 +179,8 @@ function App() {
         <Card style={{ marginTop: 10, marginBottom: 10 }}>
           <CardContent>
             Need examples? We have one from Jianggan, Hangzhou:&nbsp;
-            <Link href="/demo/jianggan-hangzhou/portals.json" download>Data</Link>,&nbsp;
-            <Link href="/demo/jianggan-hangzhou/2020-09.jpg" download>Image</Link>
+            <Link href="./demo/jianggan-hangzhou/portals.json" download>Data</Link>,&nbsp;
+            <Link href="./demo/jianggan-hangzhou/2020-09.jpg" download>Image</Link>
           </CardContent>
         </Card>
         <div className="buttons">
