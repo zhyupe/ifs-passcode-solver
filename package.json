@@ -1,5 +1,5 @@
 {
-  "name": "ifs-passcode",
+  "name": "ifs-passcode-solver",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +14,7 @@
     "typescript": "^4.0.2",
     "worker-loader": "^3.0.2"
   },
+  "homepage": "http://zhyupe.github.io/ifs-passcode-solver",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
