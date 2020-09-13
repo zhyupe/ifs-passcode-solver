@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.424fd20d.chunk.css",
-    "main.js": "/static/js/main.850118b6.chunk.js",
-    "main.js.map": "/static/js/main.850118b6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9c9f5e40.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9c9f5e40.js.map",
-    "static/js/2.3b91c595.chunk.js": "/static/js/2.3b91c595.chunk.js",
-    "static/js/2.3b91c595.chunk.js.map": "/static/js/2.3b91c595.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.44a49a9727f954252554ed6ae3371088.js": "/precache-manifest.44a49a9727f954252554ed6ae3371088.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.424fd20d.chunk.css.map": "/static/css/main.424fd20d.chunk.css.map",
-    "static/js/2.3b91c595.chunk.js.LICENSE.txt": "/static/js/2.3b91c595.chunk.js.LICENSE.txt",
-    "static/js/blockhash.worker.307a72bc.worker.js": "/static/js/blockhash.worker.307a72bc.worker.js",
-    "static/js/blockhash.worker.307a72bc.worker.js.LICENSE.txt": "/static/js/blockhash.worker.307a72bc.worker.js.LICENSE.txt",
-    "static/js/blockhash.worker.307a72bc.worker.js.map": "/static/js/blockhash.worker.307a72bc.worker.js.map"
+    "main.css": "/ifs-passcode-solver/static/css/main.424fd20d.chunk.css",
+    "main.js": "/ifs-passcode-solver/static/js/main.097050dd.chunk.js",
+    "main.js.map": "/ifs-passcode-solver/static/js/main.097050dd.chunk.js.map",
+    "runtime-main.js": "/ifs-passcode-solver/static/js/runtime-main.87a35038.js",
+    "runtime-main.js.map": "/ifs-passcode-solver/static/js/runtime-main.87a35038.js.map",
+    "static/js/2.ee70706b.chunk.js": "/ifs-passcode-solver/static/js/2.ee70706b.chunk.js",
+    "static/js/2.ee70706b.chunk.js.map": "/ifs-passcode-solver/static/js/2.ee70706b.chunk.js.map",
+    "index.html": "/ifs-passcode-solver/index.html",
+    "precache-manifest.84d60cb67910c6609876d5c175b1445e.js": "/ifs-passcode-solver/precache-manifest.84d60cb67910c6609876d5c175b1445e.js",
+    "service-worker.js": "/ifs-passcode-solver/service-worker.js",
+    "static/css/main.424fd20d.chunk.css.map": "/ifs-passcode-solver/static/css/main.424fd20d.chunk.css.map",
+    "static/js/2.ee70706b.chunk.js.LICENSE.txt": "/ifs-passcode-solver/static/js/2.ee70706b.chunk.js.LICENSE.txt",
+    "static/js/blockhash.worker.81597d1a.worker.js": "/ifs-passcode-solver/static/js/blockhash.worker.81597d1a.worker.js",
+    "static/js/blockhash.worker.81597d1a.worker.js.LICENSE.txt": "/ifs-passcode-solver/static/js/blockhash.worker.81597d1a.worker.js.LICENSE.txt",
+    "static/js/blockhash.worker.81597d1a.worker.js.map": "/ifs-passcode-solver/static/js/blockhash.worker.81597d1a.worker.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c9f5e40.js",
-    "static/js/2.3b91c595.chunk.js",
+    "static/js/runtime-main.87a35038.js",
+    "static/js/2.ee70706b.chunk.js",
     "static/css/main.424fd20d.chunk.css",
-    "static/js/main.850118b6.chunk.js"
+    "static/js/main.097050dd.chunk.js"
   ]
 }
