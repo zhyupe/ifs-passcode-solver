@@ -1,4 +1,3 @@
-import { blockhash } from "./blockhash"
 import { Portal } from "../types/portal"
 import { drawLine } from "./canvas-helper"
 import { Column } from "../types/column"
